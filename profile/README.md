@@ -16,13 +16,9 @@ Este repositório contém o aplicativo principal do FlutterIDEAndroid. Nele, voc
 
 O FlutterIDEAndroid integra diversas ferramentas e bibliotecas que ampliam suas funcionalidades:
 
-- **[termux-app](https://github.com/FlutterIDEAndroid/termux-app):** for of **[termux-app](https://github.com/termux/termux-app)** Interface e integração com o ambiente Termux.
-- **[termux-packages:](https://github.com/FlutterIDEAndroid/termux-packages) fork of [termux-packages](https://github.com/termux/termux-packages)** Gerenciamento e instalação de pacotes no Termux.
-- **re_editor:** Editor de código com suporte a realce de sintaxe e outras funcionalidades.
-- **flutter_fancy_tree_view:** Visualização de estruturas em árvore para facilitar a navegação no projeto.
-- **flutter_pty:** Emulação de terminais para executar comandos e scripts.
-- **xterm:** Integração de terminais dentro da aplicação.
-- **termux-flutter:** Ferramenta que permite a execução de comandos Flutter no ambiente Termux.
+- **[termux-app](https://github.com/FlutterIDEAndroid/termux-app):** for de [termux-app](https://github.com/termux/termux-app)** Interface e integração com o ambiente Termux.
+- **[termux-packages](https://github.com/FlutterIDEAndroid/termux-packages):** fork de [termux-packages](https://github.com/termux/termux-packages) Gerenciamento e instalação de pacotes no Termux.
+- **[termux-flutter](https://github.com/mumumusuc/termux-flutter):** fork de [termux-flutter](https://github.com/mumumusuc/termux-flutter) Ferramenta que permite a execução de comandos Flutter no ambiente Termux.
 
 ## Suporte
 
