@@ -1,3 +1,6 @@
+<img src="https://i0.wp.com/codingwitht.com/wp-content/uploads/2022/02/Coding-with-Tea-blue-flutter-logo-Hlf-Logo.png" alt="Texto Alternativo" width="300" />
+
+
 # FlutterIDEAndroid
 
 FlutterIDEAndroid é uma IDE móvel desenvolvida em Flutter para dispositivos Android. Este projeto tem como objetivo facilitar o desenvolvimento de aplicações Flutter diretamente em seu dispositivo Android, trazendo a flexibilidade e praticidade que você precisa para programar em qualquer lugar.
