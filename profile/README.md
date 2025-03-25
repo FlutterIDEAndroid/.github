@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/codingwitht.com/wp-content/uploads/2022/02/Coding-with-Tea-blue-flutter-logo-Hlf-Logo.png" alt="Texto Alternativo" width="800" height="800" />
+<img src="https://i0.wp.com/codingwitht.com/wp-content/uploads/2022/02/Coding-with-Tea-blue-flutter-logo-Hlf-Logo.png" alt="Texto Alternativo" width="900" height="500" />
 
 
 # FlutterIDEAndroid
