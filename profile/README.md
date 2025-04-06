@@ -24,4 +24,7 @@ Fique por dentro das novidades e participe da nossa comunidade:
 - **Discord:** [Junte-se ao nosso servidor](https://discord.gg/seu_convite)
 - **Twitter:** [Siga-nos no Twitter](https://twitter.com/seu_perfil)
 
+## Licença
+Este projeto é licenciado sob a [Licença GPL v3](https://raw.githubusercontent.com/FlutterIDEAndroid/.github/refs/heads/main/profile/LICENSE).
+
 Agradecemos seu interesse e esperamos que o FlutterIDEAndroid seja útil para você desenvolver com mais liberdade e mobilidade!
