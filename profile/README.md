@@ -20,8 +20,7 @@ Se você deseja contribuir ou apoiar o desenvolvimento do FlutterIDEAndroid, con
 
 Fique por dentro das novidades e participe da nossa comunidade:
 
-- **Telegram:** [Acesse nosso grupo](https://t.me/seu_grupo_telegram)
-- **Discord:** [Junte-se ao nosso servidor](https://discord.gg/seu_convite)
+- **Telegram:** [Acesse nosso grupo](https://t.me/+wZ8UtP62INwxY2Ix)
 
 ## Licença
 Este projeto é licenciado sob a [Licença GPL v3](https://raw.githubusercontent.com/FlutterIDEAndroid/.github/refs/heads/main/profile/LICENSE).
