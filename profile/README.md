@@ -5,16 +5,7 @@
 
 FlutterIDEAndroid é uma IDE móvel desenvolvida em Flutter e Kotlin para dispositivos Android. Este projeto tem como objetivo facilitar o desenvolvimento de aplicações multiplataforma diretamente em seu dispositivo Android, trazendo a praticidade que você precisa para programar em qualquer lugar offline.
 
-## Repositório Principal
-
-Este repositório contém o aplicativo principal do FlutterIDEAndroid. Nele, você encontrará:
-- O código-fonte da IDE móvel.
-- Documentação e exemplos de uso.
-- Configurações e scripts de build para facilitar o desenvolvimento e deploy.
-
 ## Ferramentas Utilizadas
-
-O FlutterIDEAndroid integra diversas ferramentas e bibliotecas que ampliam suas funcionalidades:
 
 - **[termux-app](https://github.com/FlutterIDEAndroid/termux-app):** for de [termux-app](https://github.com/termux/termux-app)** Interface e integração com o ambiente Termux.
 - **[termux-packages](https://github.com/FlutterIDEAndroid/termux-packages):** fork de [termux-packages](https://github.com/termux/termux-packages) Gerenciamento e instalação de pacotes no Termux.
