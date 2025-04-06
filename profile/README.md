@@ -3,7 +3,7 @@
 
 # FlutterIDEAndroid
 
-FlutterIDEAndroid é uma IDE móvel desenvolvida em Flutter para dispositivos Android. Este projeto tem como objetivo facilitar o desenvolvimento de aplicações Flutter diretamente em seu dispositivo Android, trazendo a flexibilidade e praticidade que você precisa para programar em qualquer lugar.
+FlutterIDEAndroid é uma IDE móvel desenvolvida em Flutter e Kotlin para dispositivos Android. Este projeto tem como objetivo facilitar o desenvolvimento de aplicações multiplataforma diretamente em seu dispositivo Android, trazendo a praticidade que você precisa para programar em qualquer lugar offline.
 
 ## Repositório Principal
 
