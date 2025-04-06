@@ -24,10 +24,6 @@ Fique por dentro das novidades e participe da nossa comunidade:
 - **Discord:** [Junte-se ao nosso servidor](https://discord.gg/seu_convite)
 - **Twitter:** [Siga-nos no Twitter](https://twitter.com/seu_perfil)
 
-## Contribuição
-
-Contribuições são muito bem-vindas! Se você deseja melhorar o FlutterIDEAndroid, confira as diretrizes de contribuição e abra uma _issue_ ou _pull request_.
-
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
