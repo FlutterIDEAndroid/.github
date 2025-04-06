@@ -26,8 +26,7 @@ Fique por dentro das novidades e participe da nossa comunidade:
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
+Este projeto é licenciado sob a [Licença GPL v2](https://chatgpt.com/c/LICENSE).
 ---
 
 Agradecemos seu interesse e esperamos que o FlutterIDEAndroid seja útil para você desenvolver com mais liberdade e mobilidade!
